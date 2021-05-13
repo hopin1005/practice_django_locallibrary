@@ -1,0 +1,4 @@
+mysite/Lib/*
+mysite/Scripts/*
+mysite/.gitignore
+mysite/pyvenv.cfg
