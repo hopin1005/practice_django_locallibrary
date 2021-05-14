@@ -2,3 +2,4 @@ mysite/Lib/*
 mysite/Scripts/*
 mysite/.gitignore
 mysite/pyvenv.cfg
+mysite/locallibrary/.env
